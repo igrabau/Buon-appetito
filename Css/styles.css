@@ -1,0 +1,21 @@
+h1 {
+  color: pink;
+  font-style: italic;
+  font-size: 85px;
+  text-align: center;
+  font-family: inherit, serif;
+}
+
+h2 {
+  color: pink;
+  font-style: italic;
+  font-size: 40px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+ul {
+  color: orange;
+  font-style: normal;
+  font-size: 25px;
+}
